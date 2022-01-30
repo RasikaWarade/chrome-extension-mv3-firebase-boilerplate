@@ -1,0 +1,1 @@
+# chrome-extension-mv3-firebase-boilerplate
