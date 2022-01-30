@@ -1,0 +1,90 @@
+@import "https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css";
+
+.login__form {
+  background-color: #263238;
+  padding: 50px;
+  border-radius: 10px;
+}
+
+label {
+  cursor: pointer;
+  color: #666;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(#141e30, #3c76b8);
+  /* background-color: #263238; */
+  font-family: "Lato", sans-serif;
+  width: 300px;
+  height: 230px;
+}
+
+h1 {
+  color: #fff;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 100;
+  margin: 0 0 30px;
+  padding: 0;
+  color: #fff;
+}
+
+.btn {
+  display: block;
+  border: 1px solid transparent;
+  height: 45px;
+  width: 100%;
+  border-radius: 5px;
+  transition: all 0.5s ease;
+  cursor: pointer;
+  outline: none;
+  font-family: "Lato", sans-serif;
+  font-weight: 600;
+}
+
+.social__login {
+  display: flex;
+}
+
+.social__login a {
+  flex: 1;
+  text-align: center;
+  text-decoration: none;
+  line-height: 45px;
+  margin: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: 20px
+}
+
+.social__login i {
+  margin-right: 10px;
+}
+
+.btn__google {
+  background-color: #4285F4;
+  color: #fff;
+  font-size: 18px;
+}
+
+.btn__google:hover {
+  background-color: #fff;
+  color: #4285F4;
+  border: 1px solid #4285F4;
+}
+
+.btn__github {
+  background-color: #333;
+  color: #fff;
+  font-size: 18px;
+}
+
+.btn__github:hover {
+  background-color: #fff;
+  color: #333;
+  border: 1px solid #333;
+}

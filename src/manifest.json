@@ -1,0 +1,50 @@
+{
+  "manifest_version": 3,
+  "version": "0.1",
+  "name": "Firebase Auth ( Google Sign IN SSO ) + MV3 Extension",
+  "description": "Webpack Modular Framework!",
+  "action": {
+    "default_popup": "./popup.html",
+    "default_icon": {
+      "16": "./src/icons/get_started16.png",
+      "32": "./src/icons/get_started32.png",
+      "48": "./src/icons/get_started48.png",
+      "128": "./src/icons/get_started128.png"
+    },
+    "default_title": "Getting Started Firebase + MV3!"
+  },
+  "permissions": [
+    "storage",
+    "activeTab",
+    "scripting",
+    "identity"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "content.js"
+      ]
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "./src/icons/get_started16.png",
+    "32": "./src/icons/get_started32.png",
+    "48": "./src/icons/get_started48.png",
+    "128": "./src/icons/get_started128.png"
+  },
+  "options_page": "options.html",
+  "oauth2": {
+    "client_id": "<fill-me>.apps.googleusercontent.com",
+    "scopes": [
+      "https://www.googleapis.com/auth/userinfo.email",
+      "https://www.googleapis.com/auth/userinfo.profile"
+    ]
+  },
+  "key": "-----BEGIN PUBLIC KEY-----\n<fill-me>\n-----END PUBLIC KEY-----"  
+}
