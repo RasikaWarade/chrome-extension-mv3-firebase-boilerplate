@@ -1,4 +1,4 @@
-# chrome-extension-mv3-firebase-boilerplate
+# chrome-extension-mv3-firebase-webpack-boilerplate
 A basic foundation boilerplate for rich Chrome Extensions using Webpack to help you write modular and modern Javascript code, load CSS easily and automatic reload the browser on code changes.
 
 Developing a new extension
