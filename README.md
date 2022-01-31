@@ -148,6 +148,11 @@ Code Snippet:
    4. Select the `dist` folder
 
 Note: `gitignore` will help ignore the `node_modules` and `dist` folder to be pushed to the github
+ 
+# Demo
 
+Find this Chrome Extension Setup and working demo [here](https://github.com/RasikaWarade/chrome-extension-mv3-firebase-boilerplate/blob/main/firebase-demo.pdf)!
+  
+  
 -----
 [Blog](https://rasikawarade.github.io/think-rethink-reinforce/) | [Rasika Warade](https://rasikawarade.github.io/)
