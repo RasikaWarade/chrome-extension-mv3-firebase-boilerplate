@@ -31,7 +31,7 @@ Referrences:
 
 # Structure
 
-I am assuming you have followed the steps to [add Firebase Authentication to your web application](https://firebase.google.com/docs/web/setup) and have access to [Firebase console](https://console.firebase.google.com/). You have 
+I am assuming you have followed the steps to [add Firebase Authentication to your web application](https://firebase.google.com/docs/web/setup) and have access to [Firebase console](https://console.firebase.google.com/). 
 
 I am assuming you have taken look for introduction at the [Chrome Extension docs](https://developer.chrome.com/docs/extensions/mv3/getstarted/) and [Webpack docs](https://webpack.js.org/).
 
@@ -122,7 +122,7 @@ const config = {
 };
 ```   
 
-To provide Google Sign In, authorize Firebase (GoogleAuthProvider) with the OAuth Access Token, which will builds Firebase credential with the Google ID token.
+To provide Google Sign In, the code below used authorizes Firebase (GoogleAuthProvider) with the OAuth Access Token, which will build Firebase credential with the Google ID token.
 
 Code Snippet:
 ```
@@ -131,7 +131,7 @@ Code Snippet:
                 console.log("Success!!!")
             }).catch((error) => {
 ```
-      
+
    
 # How to use it
 
