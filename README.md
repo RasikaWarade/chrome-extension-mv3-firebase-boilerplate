@@ -150,4 +150,4 @@ Code Snippet:
 Note: `gitignore` will help ignore the `node_modules` and `dist` folder to be pushed to the github
 
 -----
-[Blog](https://rasikawarade.github.io/think-rethink-reinforce/chrome-extension/webpack/2022/01/30/chrome-webpack.html) | [Rasika Warade](https://rasikawarade.github.io/)
+[Blog](https://rasikawarade.github.io/think-rethink-reinforce/) | [Rasika Warade](https://rasikawarade.github.io/)
