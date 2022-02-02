@@ -1,8 +1,14 @@
 # Firebase SDK 9 + Google Sign In + Chrome Extension Manifest Version 3 + Webpack  
 
+# Demo
+
+Find this Chrome Extension Setup and working demo [here](https://github.com/RasikaWarade/chrome-extension-mv3-firebase-boilerplate/blob/main/firebase-demo.pdf)!
+  
+  
 ## Boilerplate Code Brief
 
 The Chrome Extension with MV3 version shows example of authentication of Firebase SDK9 with `Google Sign In` enable. This boilerplate uses Webpack to speed up the process of writing modular Javascript code, loading HTML and CSS easily, and automatic reload the browser based on changes.
+
 
 ## Why?
 
@@ -149,10 +155,6 @@ Code Snippet:
 
 Note: `gitignore` will help ignore the `node_modules` and `dist` folder to be pushed to the github
  
-# Demo
-
-Find this Chrome Extension Setup and working demo [here](https://github.com/RasikaWarade/chrome-extension-mv3-firebase-boilerplate/blob/main/firebase-demo.pdf)!
-  
   
 -----
 [Blog](https://rasikawarade.github.io/think-rethink-reinforce/) | [Rasika Warade](https://rasikawarade.github.io/)
