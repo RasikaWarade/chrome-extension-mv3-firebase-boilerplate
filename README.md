@@ -2,7 +2,7 @@
 
 # Demo
 
-Find this Chrome Extension Setup and working demo [here](https://github.com/RasikaWarade/chrome-extension-mv3-firebase-boilerplate/blob/main/firebase-demo.pdf)!
+Find this Chrome Extension Setup and working demo [here](https://github.com/RasikaWarade/chrome-extension-mv3-firebase-boilerplate/blob/main/firebase-demo.pdf) or on [Youtube](https://youtu.be/Kb_qZ7qxz9A)!
   
   
 ## Boilerplate Code Brief
@@ -157,4 +157,4 @@ Note: `gitignore` will help ignore the `node_modules` and `dist` folder to be pu
  
   
 -----
-[Blog](https://rasikawarade.github.io/think-rethink-reinforce/) | [Rasika Warade](https://rasikawarade.github.io/)
+[Blog](https://rasikawarade.github.io/think-rethink-reinforce/chrome-extension/firebase/webpack/2022/01/30/firebase-auth-chrome-webpack.html) | [Rasika Warade](https://rasikawarade.github.io/)
