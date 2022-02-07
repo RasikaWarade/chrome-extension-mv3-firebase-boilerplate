@@ -157,4 +157,4 @@ Note: `gitignore` will help ignore the `node_modules` and `dist` folder to be pu
  
   
 -----
-[Blog](https://rasikawarade.github.io/think-rethink-reinforce/chrome-extension/firebase/webpack/2022/01/30/firebase-auth-chrome-webpack.html) | [Rasika Warade](https://rasikawarade.github.io/)
+[Blog](https://rasikawarade.github.io/think-rethink-reinforce/chrome-extension/firebase/webpack/2022/02/06/firebase-auth-chrome-webpack.html) | [Rasika Warade](https://rasikawarade.github.io/)
